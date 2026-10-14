@@ -1,0 +1,31 @@
+.changeset/cli-xcode-versioned-bundle.md
+  s_c1a79a776493e3::t_7b1fb9aa28e0fe 5
+docs/ko/troubleshooting/install-and-agents.md
+  s_c1a79a776493e3::t_6c29337b61bf49 42
+docs/troubleshooting/install-and-agents.md
+  s_c1a79a776493e3::t_8e89058c722cb4 46
+packages/cli/src/__tests__/lib/doctor.test.ts
+  s_c1a79a776493e3::t_3951d1b75352f4 282-320
+packages/cli/src/__tests__/lib/xcode.test.ts
+  s_c1a79a776493e3::t_9b79ce9284f861 50
+packages/cli/src/lib/doctor.ts
+  s_c1a79a776493e3::t_4734d99bc758a5 10,51-54,60,62,433-440,447-454,456
+packages/cli/src/lib/xcode.ts
+  s_c1a79a776493e3::t_ad46d467ddcc3d 9-12,14-15,17,19,23-30,40-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ad5beb27b7b49471f7542dd12442b49bfc068fc8",
+  "prompts": {},
+  "sessions": {
+    "s_c1a79a776493e3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5270d43f-de6d-4807-9b99-d72e4cd49405",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Edward Coleridge Smith <edcoleridgesmith@gmail.com>"
+    }
+  }
+}
