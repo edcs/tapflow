@@ -1,0 +1,19 @@
+packages/cli/src/__tests__/lib/xcode.test.ts
+  s_c1a79a776493e3::t_165a57eee1844e 68-70,72-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "196dbb7527fb9c1156c3115f8883dca0b3f56dfc",
+  "prompts": {},
+  "sessions": {
+    "s_c1a79a776493e3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5270d43f-de6d-4807-9b99-d72e4cd49405",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Edward Coleridge Smith <edcoleridgesmith@gmail.com>"
+    }
+  }
+}
