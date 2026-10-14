@@ -1,0 +1,35 @@
+packages/cli/src/__tests__/lib/xcode.test.ts
+  s_c1a79a776493e3::t_77b270428745bc 1-85
+  s_c1a79a776493e3::t_f5484b3a03bd8f 86-94
+packages/cli/src/lib/xcode.ts
+  s_c1a79a776493e3::t_a5ef51bbf3b814 1-46
+  s_c1a79a776493e3::t_28cc4884a664a4 47-49
+.changeset/cli-xcode-versioned-bundle.md
+  s_c1a79a776493e3::t_ed568b60ae8dd2 1-5
+CHANGELOG.md
+  s_c1a79a776493e3::t_8a123d970c0676 30-31
+packages/cli/src/__tests__/lib/doctor.test.ts
+  s_c1a79a776493e3::t_97ee14f2623809 248-281
+packages/cli/src/__tests__/lib/setup.test.ts
+  s_c1a79a776493e3::t_f2405accec66eb 683-724
+packages/cli/src/lib/doctor.ts
+  s_c1a79a776493e3::t_57d247586f1d71 10,56-57,77,430,439
+packages/cli/src/lib/setup.ts
+  s_c1a79a776493e3::t_54049caa463972 16,354,386,402-403,407-408,413
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7f39641f879670e303d5b153923d14ff3b7a9fc9",
+  "prompts": {},
+  "sessions": {
+    "s_c1a79a776493e3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5270d43f-de6d-4807-9b99-d72e4cd49405",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Edward Coleridge Smith <edcoleridgesmith@gmail.com>"
+    }
+  }
+}
