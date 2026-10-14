@@ -1,0 +1,31 @@
+.changeset/setup-xcode-install-sources.md
+  s_55a35fc8b2ce0d::t_172808d54471d9 1-5
+CHANGELOG.md
+  s_55a35fc8b2ce0d::t_3c859040d70276 30-31
+packages/cli/src/lib/setup.ts
+  s_55a35fc8b2ce0d::t_172808d54471d9 358,367
+docs/get-started/quick-start.md
+  s_55a35fc8b2ce0d::t_588326c1105e40 16,47
+docs/ko/get-started/quick-start.md
+  s_55a35fc8b2ce0d::t_6bc026acc9e12f 16,51
+docs/ko/operate/environment-setup.md
+  s_55a35fc8b2ce0d::t_e98e9d37dcf580 60
+docs/operate/environment-setup.md
+  s_55a35fc8b2ce0d::t_25989577de53fc 60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bb06f839b14f6f61b5abbadc19b3f69d31233471",
+  "prompts": {},
+  "sessions": {
+    "s_55a35fc8b2ce0d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d9d4b832-8964-44a5-8cbd-b9f195cfab85",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Edward Coleridge Smith <edcoleridgesmith@gmail.com>"
+    }
+  }
+}
